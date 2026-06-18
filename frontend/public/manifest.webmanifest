@@ -1,0 +1,25 @@
+{
+  "name": "BlockTest",
+  "short_name": "BlockTest",
+  "description": "Installable mobile client for isolated blockchain test execution and monitoring.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2e9",
+  "theme_color": "#0e7a5f",
+  "icons": [
+    {
+      "src": "/blocktest-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/blocktest-icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

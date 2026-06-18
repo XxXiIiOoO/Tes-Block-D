@@ -1,0 +1,16 @@
+.env
+.venv/
+.venv-check/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+node_modules/
+dist/
+
+.pytest_cache/
+.mypy_cache/
+
+postgres_data/
+backend/alembic_validation.db
