@@ -707,12 +707,8 @@ DOCKER_COMPOSE_NETWORK=blocktest_default
 - отдельный sandbox-host для worker;
 - VM-level isolation.
 
-## Материалы Для Диплома
 
-Текстовые заготовки:
 
-```text
-docs/diploma-sections.md
-```
 
-В корне проекта также лежат схемы, диаграммы и `.docx` приложения для пояснительной записки.
+
+
